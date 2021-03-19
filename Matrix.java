@@ -1,6 +1,6 @@
 import java.util.*;
 public class Main
-        // Mahmut Sacit Meydanal 200316057 2. öğretim
+    
 {
     public static void main(String[] args) {
         int[][] a = new int[5][5];
