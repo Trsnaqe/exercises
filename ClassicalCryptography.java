@@ -1,5 +1,4 @@
 package com.company;
-// İsim-Soyisim: Mahmut Sacit MEYDANAL, Numara:200316057 2nd education
 
 import java.util.*;
 
