@@ -1,5 +1,4 @@
 package com.company;
-//Ad-Soyad:Mahmut Sacit Meydanal No: 200316057 2nd education
 import java.util.Random;
 
 public class Main {
